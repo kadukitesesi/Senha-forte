@@ -1,4 +1,4 @@
-package com.kadukitesesi.demo.service;
+package com.kadukitesesi.senha.service;
 
 
 import io.micrometer.common.util.StringUtils;

@@ -1,4 +1,4 @@
-package com.kadukitesesi.demo;
+package com.kadukitesesi.senha;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

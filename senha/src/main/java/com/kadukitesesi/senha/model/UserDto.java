@@ -1,4 +1,4 @@
-package com.kadukitesesi.demo.model;
+package com.kadukitesesi.senha.model;
 
 public record UserDto(String password) {
 }

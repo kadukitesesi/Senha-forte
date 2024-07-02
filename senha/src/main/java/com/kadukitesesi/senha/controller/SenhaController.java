@@ -1,8 +1,8 @@
-package com.kadukitesesi.demo.controller;
+package com.kadukitesesi.senha.controller;
 
 
-import com.kadukitesesi.demo.model.UserDto;
-import com.kadukitesesi.demo.service.ValidateService;
+import com.kadukitesesi.senha.model.UserDto;
+import com.kadukitesesi.senha.service.ValidateService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
